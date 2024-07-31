@@ -524,26 +524,16 @@ button {
 
 @media (max-width: 992px) {
     .contact-container {
-        max-width: 720px;
+        max-width: 577px;
     }
-
-    .q-list{
-        padding-right: 42px;
-        padding-left: 42px;
-    }
-
     .submit a {
         width: 66%;
     }
-
     }
-
     @media (max-width: 576px) {
         .contact-container {
             max-width: 375px;
         }
-
-
         .submit {
             width: 100%;
             padding-right: 14px;
@@ -552,10 +542,6 @@ button {
 
         .submit a {
             width: 100%;
-        }
-        .q-list{
-            padding-right: 0px;
-            padding-left: 0px;
         }
     }
 
