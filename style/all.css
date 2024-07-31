@@ -454,10 +454,10 @@ button {
     margin-bottom: 16px;
 }
 
-.box2 {
+/*.box2 {
     width: 100%;
 }
-
+*/
 .input-type {
     min-height: 136px;
 }
@@ -469,7 +469,9 @@ button {
 .check {
     color: #000;
 }
-
+.submit{
+    justify-content: center;
+}
 .submit a {
     width: 416px;
     background: #AA0601;
@@ -483,9 +485,6 @@ button {
         padding-right: 54px;
         padding-left: 54px;
     }
-    .submet a{
-        width: 50%;
-    }
 }
 @media (max-width: 576px) {
     .contact-container{
@@ -496,12 +495,13 @@ button {
     .box2 {
         padding: 0 14px;
     }
-    .submet{
+    .submit{
         width: 100%;
+        padding-right: 14px;
+        padding-left: 14px;
     }
     .submit a{
         width: 100%;
-        padding: 16px 142px;
     }
 }
 /*footer*/
