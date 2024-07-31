@@ -541,13 +541,8 @@ button {
     @media (max-width: 576px) {
         .contact-container {
             max-width: 375px;
-            padding-right: 0px;
-            padding-left: 0px;
         }
 
-        .box2 {
-            padding: 0 14px;
-        }
 
         .submit {
             width: 100%;
