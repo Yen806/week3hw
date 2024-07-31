@@ -298,7 +298,7 @@ button {
 }
 /*section4*/
 .home-section4 {
-    background-image: url(/images/index-bg.png);
+    background-image: url(../images/index-bg.png);
 }
 
 .white {
@@ -316,7 +316,7 @@ button {
 
 @media (max-width: 992px){
     .home-section4 {
-        background-image: url(/images/index-bg-md.png);
+        background-image: url(../images/index-bg-md.png);
     }
     .sm-flex-wrap{
         flex-wrap: wrap;
@@ -336,7 +336,7 @@ button {
 }
 @media (max-width: 576px) {
     .home-section4 {
-        background-image: url(/images/index-bg-sm.png);
+        background-image: url(../images/index-bg-sm.png);
     }
     .sm-flex-wrap{
         flex-wrap: wrap;
