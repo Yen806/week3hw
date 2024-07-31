@@ -417,6 +417,8 @@ button {
 .contact-container {
     width: 636px;
     margin: 0 auto;
+    padding-right: 12px;
+    padding-left: 12px;
 }
 
 .contact-container h2 {
@@ -454,7 +456,6 @@ button {
 
 .box2 {
     width: 100%;
-    padding: 0 12px;
 }
 
 .input-type {
