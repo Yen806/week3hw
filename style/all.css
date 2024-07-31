@@ -471,6 +471,7 @@ button {
 }
 .submit{
     justify-content: center;
+    align-items: center;
 }
 .submit a {
     width: 416px;
@@ -484,6 +485,9 @@ button {
         max-width: 720px;
         padding-right: 54px;
         padding-left: 54px;
+    }
+    .submit a{
+        width: 66%;
     }
 }
 @media (max-width: 576px) {
